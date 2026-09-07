@@ -40,7 +40,7 @@ Après rapprochement des sources :
 - sécurisation des jointures entre les sources ;
 - création d’une table consolidée exploitable pour l’analyse.
 
-![Validation de la table consolidée](images/validation de la table consolidée.png)
+![Validation de la table consolidée](images/validation_de_la_table_consolidee.png)
 
 ### 2. Analyse exploratoire et métier
 
