@@ -4,4 +4,6 @@ plotly
 scikit-learn
 openpyxl
 pandera
+seaborn
+matplotlib
 jupyter
