@@ -54,11 +54,11 @@ Les analyses portent notamment sur :
 - les taux de marge ;
 - la distribution des prix et la détection de valeurs atypiques.
 
-![Taux de marge moyen par type de produit](images/analyse de marge.png)
+![Taux de marge moyen par type de produit](images/analyse_de_marge.png)
 
 Les valeurs atypiques de prix sont étudiées à l’aide de méthodes statistiques telles que le **Z-score** et l’**écart interquartile (IQR)**.
 
-![Répartition des prix](images/Répartition des prix.png)
+![Répartition des prix](images/repartition_des_prix.png)
 
 ### 3. Analyses statistiques
 
@@ -96,7 +96,7 @@ Résultats :
 
 La segmentation est utilisée comme outil de priorisation et non comme mécanisme de décision automatique.
 
-![Segmentation K-Means](images/ssegmentation K-Means.png)
+![Segmentation K-Means](images/segmentation_k-means.png)
 
 ## Technologies utilisées
 
