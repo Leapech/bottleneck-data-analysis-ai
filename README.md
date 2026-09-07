@@ -40,6 +40,8 @@ Après rapprochement des sources :
 - sécurisation des jointures entre les sources ;
 - création d’une table consolidée exploitable pour l’analyse.
 
+![Validation de la table consolidée](images/validation de la table consolidée.png)
+
 ### 2. Analyse exploratoire et métier
 
 Les analyses portent notamment sur :
@@ -52,7 +54,11 @@ Les analyses portent notamment sur :
 - les taux de marge ;
 - la distribution des prix et la détection de valeurs atypiques.
 
+![Taux de marge moyen par type de produit](images/analyse de marge.png)
+
 Les valeurs atypiques de prix sont étudiées à l’aide de méthodes statistiques telles que le **Z-score** et l’**écart interquartile (IQR)**.
+
+![Répartition des prix](images/Répartition des prix.png)
 
 ### 3. Analyses statistiques
 
@@ -89,6 +95,8 @@ Résultats :
 - **29 produits** identifiés comme « à surveiller en priorité ».
 
 La segmentation est utilisée comme outil de priorisation et non comme mécanisme de décision automatique.
+
+![Segmentation K-Means](images/ssegmentation K-Means.png)
 
 ## Technologies utilisées
 
